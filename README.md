@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 Student
 - 🌱 I’m currently learning CSS/HTML/JAVASCRIPT
